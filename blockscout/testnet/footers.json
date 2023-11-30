@@ -2,16 +2,14 @@
     {
         "title": "Maybe Tools",
         "links": [
-            [
-                {
-                    "title": "Bridge",
-                    "url": "https://testnetbridge.alphacarbon.network"
-                },
-                {
-                    "title": "Faucet",
-                    "url": "https://aminox-faucet.alphacarbon.network"
-                }
-            ]
+            {
+                "title": "Bridge",
+                "url": "https://testnetbridge.alphacarbon.network"
+            },
+            {
+                "title": "Faucet",
+                "url": "https://aminox-faucet.alphacarbon.network"
+            }
         ]
     }
 ]
