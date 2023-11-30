@@ -3,11 +3,11 @@
         "title": "Maybe Tools",
         "links": [
             {
-                "title": "Bridge",
+                "text": "Bridge",
                 "url": "https://testnetbridge.alphacarbon.network"
             },
             {
-                "title": "Faucet",
+                "text": "Faucet",
                 "url": "https://aminox-faucet.alphacarbon.network"
             }
         ]
