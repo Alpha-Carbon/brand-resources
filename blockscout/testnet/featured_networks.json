@@ -1,12 +1,12 @@
 [
     {
-        "title": "AminoX ",
+        "title": "Amino X",
         "url": "https://aminox.blockscout.alphacarbon.network/",
         "group": "Mainnets",
         "icon": "https://alpha-carbon.github.io/brand-resources/aminox/aminox.svg"
     },
     {
-        "title": "AminoX Testnet",
+        "title": "Amino X Testnet",
         "url": "https://aminoxtestnet.blockscout.alphacarbon.network/",
         "group": "Testnets",
         "icon": "https://alpha-carbon.github.io/brand-resources/aminox/aminox.svg",
