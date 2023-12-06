@@ -1,0 +1,18 @@
+[
+    {
+        "id": "app",
+        "external": true,
+        "title": "Alpha carbon",
+        "logo": "https://alpha-carbon.github.io/brand-resources/aminox/aminox.svg",
+        "shortDescription": "shortDescription",
+        "categories": [
+            "security",
+            "tools"
+        ],
+        "author": "Alpha carbon team",
+        "url": "https://foo.app/launch",
+        "description": "The best app",
+        "site": "https://alphacarbon.network/",
+        "github": "https://github.com/Alpha-Carbon"
+    }
+]
